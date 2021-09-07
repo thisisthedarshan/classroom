@@ -1,6 +1,6 @@
 # Hello! I am Darshan and it's nice meeting you :)
 
-## よろしくお願いします ![]()
+## [会えてうれしいよ](https://translate.google.com/?sl=ja&tl=en&text=%E4%BC%9A%E3%81%88%E3%81%A6%E3%81%86%E3%82%8C%E3%81%97%E3%81%84%E3%82%88&op=translate)
 
 ### You can find me on GitHub [Here](https://github.com/thisisthedarshan)
 
